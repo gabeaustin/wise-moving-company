@@ -1,0 +1,28 @@
+/* gold color - f4bd54
+gray - 5e5e5e
+light gray (nav bar) - f3f3f1  */
+
+.main-page-photo {
+  background-image: url("images/moving_chair.jpeg");
+  background-repeat: no-repeat;
+  background-position: top center;
+  background-size: cover;
+  height: 35vh;
+}
+
+.heading-color-change {
+  color: #f4bd54;
+}
+
+.free-quote-box {
+  background-color: #f4bd54;
+}
+
+.main-page-heading-copy {
+  background-color: #f3f3f1;
+}
+
+.main-copy {
+  background-color: #000;
+  color: #fff;
+}
